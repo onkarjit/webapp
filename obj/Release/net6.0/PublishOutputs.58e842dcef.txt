@@ -1,0 +1,7 @@
+/Users/onkarjit/RiderProjects/webapp/bin/Release/net6.0/publish/webapp
+/Users/onkarjit/RiderProjects/webapp/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/onkarjit/RiderProjects/webapp/bin/Release/net6.0/publish/appsettings.json
+/Users/onkarjit/RiderProjects/webapp/bin/Release/net6.0/publish/webapp.dll
+/Users/onkarjit/RiderProjects/webapp/bin/Release/net6.0/publish/webapp.deps.json
+/Users/onkarjit/RiderProjects/webapp/bin/Release/net6.0/publish/webapp.runtimeconfig.json
+/Users/onkarjit/RiderProjects/webapp/bin/Release/net6.0/publish/webapp.pdb
