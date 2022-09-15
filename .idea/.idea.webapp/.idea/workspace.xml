@@ -5,7 +5,10 @@
     <projectFile profileName="webapp">webapp/webapp.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eab21106-1f08-4631-904b-19d56c025f86" name="Changes" comment="" />
+    <list default="true" id="eab21106-1f08-4631-904b-19d56c025f86" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.webapp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.webapp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Index.cshtml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,13 +87,14 @@
       <workItem from="1663155063444" duration="2787000" />
       <workItem from="1663238361873" duration="391000" />
       <workItem from="1663238969040" duration="1024000" />
-      <workItem from="1663266789878" duration="350000" />
+      <workItem from="1663266789878" duration="944000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
